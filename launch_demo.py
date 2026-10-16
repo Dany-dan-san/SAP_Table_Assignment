@@ -7,6 +7,7 @@ import datetime
 #  - mandt: client identifier
 #  - ebeln: PO identifier
 #  - d_date: target date for value calculation
+# - report: boolean to determine whether function must return console reports or stay silent
 
 # Note: You can run the function without args, it will use
 # default args intead. 
