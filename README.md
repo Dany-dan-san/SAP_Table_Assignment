@@ -11,7 +11,7 @@
 ## 2. Repository Structure
 
 ```text
-AAA_SQL_Assignment/
+AAA_SAP_Assignment/
 ├── files/
 │   ├── EKKO_clean.csv
 │   ├── EKPO_clean.csv
